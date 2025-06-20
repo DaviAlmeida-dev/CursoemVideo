@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    display: block;
+    margin: auto;
+}
+
+iframe{
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
